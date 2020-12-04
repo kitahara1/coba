@@ -1,0 +1,16 @@
+[
+   {
+      "nik":"007",
+      "name":"Kazehiro",
+      "job_Position":"admin",
+      "job_description":"admin",
+      "salary":"50000000"
+   },
+   {
+      "nik":"008",
+      "name":"Makoto",
+      "job_Position":"slave",
+      "job_description":"slave",
+      "salary":"50000000"
+   }
+]
